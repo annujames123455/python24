@@ -1,4 +1,8 @@
-print("hello python")
+'''
+#Author:annu
+Date:01-10-2024
+Python program to get the student details
+'''
 name=input("name of the student:")
 print(name)
 cgpa=float(input("ENTER YOUR CGPA"))
